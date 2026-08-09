@@ -1,0 +1,5 @@
+# Ignorar planilhas de dados
+*.xlsx
+*.xls
+*.csv
+Base de Dados/
