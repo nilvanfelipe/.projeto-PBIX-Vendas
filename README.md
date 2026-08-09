@@ -5,8 +5,8 @@ Objetivo: Criar um relatório de vendas para a empresa Xperiun com o objetivo de
 Contexto: Analisar a base de vendas e metas para gerar insights e ajudar na tomada de decisão. A empresa vende roupas no setor de varejo.  
 
 1. Entender o negócio:
-    * O que vende: Consultoria em software, BI, Dados e IA.
-    * Para quem vende: Empresas de todos os portes.
+    * O que vende?
+    * Para quem vende?
 
 2. Analisar os dados:
     * Fonte 1 (Base de Dados): `Base de Dados.xlsx`
